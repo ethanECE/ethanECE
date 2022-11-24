@@ -1,10 +1,9 @@
-                                         
-- 👋 Hi, I’m @ethanECE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+        _____     _ 
+  /\  /\\_   \   / \
+ / /_/ / / /\/  /  /
+/ __  /\/ /_   /\_/ 
+\/ /_/\____/   \/   
+                    
 <!---
 ethanECE/ethanECE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
